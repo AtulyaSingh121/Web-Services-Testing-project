@@ -1,0 +1,32 @@
+2020-08-31 13:38:32,769 INFO  [log] sku is SKU1012
+2020-08-31 13:38:32,790 INFO  [log] SKU found in list
+2020-08-31 13:38:35,598 INFO  [log] Status=FINISHED, time taken to complete is :1308 ms
+2020-08-31 13:38:35,630 INFO  [log] number of test steps executed are :3
+2020-08-31 13:38:44,620 INFO  [log] sku is SKU00010
+2020-08-31 13:38:44,633 INFO  [log] SKU found in list
+2020-08-31 13:38:48,973 INFO  [log] Status=FINISHED, time taken to complete is :3272 ms
+2020-08-31 13:38:48,974 INFO  [log] number of test steps executed are :5
+2020-08-31 13:38:55,311 INFO  [log] sku is SKU14012
+2020-08-31 13:38:55,317 INFO  [log] SKU found in list
+2020-08-31 13:46:24,117 INFO  [log] sku is SKU1012
+2020-08-31 13:46:24,125 INFO  [log] SKU found in list
+2020-08-31 13:46:26,889 INFO  [log] Status=FINISHED, time taken to complete is :1268 ms
+2020-08-31 13:46:26,918 INFO  [log] number of test steps executed are :3
+2020-08-31 13:46:37,374 INFO  [log] sku is SKU00010
+2020-08-31 13:46:37,380 INFO  [log] SKU found in list
+2020-08-31 13:46:43,366 INFO  [log] Status=FINISHED, time taken to complete is :4460 ms
+2020-08-31 13:46:43,367 INFO  [log] number of test steps executed are :5
+2020-08-31 13:46:52,083 INFO  [log] sku is SKU14012
+2020-08-31 13:46:52,113 INFO  [log] SKU found in list
+2020-08-31 13:53:24,921 INFO  [log] sku is SKU1012
+2020-08-31 13:53:24,930 INFO  [log] SKU found in list
+2020-08-31 13:53:28,134 INFO  [log] Status=FINISHED, time taken to complete is :1438 ms
+2020-08-31 13:53:28,176 INFO  [log] number of test steps executed are :3
+2020-08-31 13:53:37,390 INFO  [log] sku is SKU00010
+2020-08-31 13:53:37,401 INFO  [log] SKU found in list
+2020-08-31 13:53:41,713 INFO  [log] Status=FINISHED, time taken to complete is :2998 ms
+2020-08-31 13:53:41,721 INFO  [log] number of test steps executed are :5
+2020-08-31 13:53:48,036 INFO  [log] sku is SKU14012
+2020-08-31 13:53:48,072 INFO  [log] SKU found in list
+2020-08-31 13:53:52,793 INFO  [log] Status=FINISHED, time taken to complete is :3068 ms
+2020-08-31 13:53:52,794 INFO  [log] number of test steps executed are :5

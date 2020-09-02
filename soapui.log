@@ -1,0 +1,128 @@
+2020-08-31 13:53:13,308 WARN  [SoapUI] Missing folder [C:\Users\AtulyaSingh\Desktop\API\webServicesproject\my-app\ext] for external libraries
+2020-08-31 13:53:13,812 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\AtulyaSingh\soapui-settings.xml]
+2020-08-31 13:53:16,362 INFO  [WsdlProject] Loaded project from [file:/C:/Users/AtulyaSingh/Desktop/API/webServicesproject/my-app/Soap-Order-Product-Type-soapui-project.xml]
+2020-08-31 13:53:18,217 INFO  [SoapUITestCaseRunner] Running SoapUI tests in project [Soap Order Product Catalouge Training Assignment]
+2020-08-31 13:53:18,220 INFO  [SoapUITestCaseRunner] Running Project [Soap Order Product Catalouge Training Assignment], runType = SEQUENTIAL
+2020-08-31 13:53:18,265 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [TC _007- Get List of Prod types]
+2020-08-31 13:53:18,303 INFO  [SoapUITestCaseRunner] running step [Get Product List]
+2020-08-31 13:53:20,234 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-08-31 13:53:20,235 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [TC _007- Get List of Prod types], time taken: 1915ms, status: FINISHED
+2020-08-31 13:53:20,248 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [TC _008 -Create a new product-Property Transfer]
+2020-08-31 13:53:20,257 INFO  [SoapUITestCaseRunner] running step [Properties]
+2020-08-31 13:53:20,271 INFO  [SoapUITestCaseRunner] running step [Property Transfer- Create a new product]
+2020-08-31 13:53:21,427 INFO  [SoapUITestCaseRunner] running step [Create a new product]
+2020-08-31 13:53:23,064 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-08-31 13:53:23,065 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [TC _008 -Create a new product-Property Transfer], time taken: 2760ms, status: FINISHED
+2020-08-31 13:53:23,069 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [TC _008 -Create a new product-Property Expansion]
+2020-08-31 13:53:23,069 INFO  [SoapUITestCaseRunner] running step [Properties]
+2020-08-31 13:53:23,070 INFO  [SoapUITestCaseRunner] running step [Create a new product]
+2020-08-31 13:53:24,318 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-08-31 13:53:24,319 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [TC _008 -Create a new product-Property Expansion], time taken: 1246ms, status: FINISHED
+2020-08-31 13:53:24,338 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [TC _008 -Create a new product-Groovy Script]
+2020-08-31 13:53:24,339 INFO  [SoapUITestCaseRunner] running step [Properties]
+2020-08-31 13:53:24,341 INFO  [SoapUITestCaseRunner] running step [Groovy Script]
+2020-08-31 13:53:24,921 INFO  [log] sku is SKU1012
+2020-08-31 13:53:24,930 INFO  [log] SKU found in list
+2020-08-31 13:53:24,939 INFO  [SoapUITestCaseRunner] running step [Create a new product]
+2020-08-31 13:53:26,404 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-08-31 13:53:26,411 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [TC _008 -Create a new product-Groovy Script], time taken: 2055ms, status: FINISHED
+2020-08-31 13:53:26,420 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [TC _008 -Create a new product-Groovy Script and Properties]
+2020-08-31 13:53:26,421 INFO  [SoapUITestCaseRunner] running step [Groovy Script]
+2020-08-31 13:53:26,638 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [TC _008 -Create a new product-Property Transfer]
+2020-08-31 13:53:26,662 INFO  [SoapUITestCaseRunner] running step [Properties]
+2020-08-31 13:53:26,680 INFO  [SoapUITestCaseRunner] running step [Property Transfer- Create a new product]
+2020-08-31 13:53:26,712 INFO  [SoapUITestCaseRunner] running step [Create a new product]
+2020-08-31 13:53:28,125 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-08-31 13:53:28,130 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [TC _008 -Create a new product-Property Transfer], time taken: 1438ms, status: FINISHED
+2020-08-31 13:53:28,134 INFO  [log] Status=FINISHED, time taken to complete is :1438 ms
+2020-08-31 13:53:28,176 INFO  [log] number of test steps executed are :3
+2020-08-31 13:53:28,180 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [TC _008 -Create a new product-Groovy Script and Properties], time taken: 1753ms, status: FINISHED
+2020-08-31 13:53:28,191 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [TC_009 - Get list of all products]
+2020-08-31 13:53:28,192 INFO  [SoapUITestCaseRunner] running step [Get list of all products]
+2020-08-31 13:53:29,787 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-08-31 13:53:29,789 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [TC_009 - Get list of all products], time taken: 1592ms, status: FINISHED
+2020-08-31 13:53:29,938 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [TC _010 -Get product by SKU -Property Transfer]
+2020-08-31 13:53:29,942 INFO  [SoapUITestCaseRunner] running step [Properties]
+2020-08-31 13:53:29,945 INFO  [SoapUITestCaseRunner] running step [Get list of all products]
+2020-08-31 13:53:31,361 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-08-31 13:53:31,398 INFO  [SoapUITestCaseRunner] running step [Property Transfer]
+2020-08-31 13:53:31,611 INFO  [SoapUITestCaseRunner] running step [Get product by SKU]
+2020-08-31 13:53:32,631 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-08-31 13:53:32,631 INFO  [SoapUITestCaseRunner] running step [Get product by SKU used for Groovy script]
+2020-08-31 13:53:33,626 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-08-31 13:53:33,627 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [TC _010 -Get product by SKU -Property Transfer], time taken: 3572ms, status: FINISHED
+2020-08-31 13:53:33,639 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [TC _010 -Get product by SKU -Property Expansion]
+2020-08-31 13:53:33,640 INFO  [SoapUITestCaseRunner] running step [Get list of all products]
+2020-08-31 13:53:34,855 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-08-31 13:53:34,877 INFO  [SoapUITestCaseRunner] running step [Get Product by SKU]
+2020-08-31 13:53:35,938 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-08-31 13:53:35,938 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [TC _010 -Get product by SKU -Property Expansion], time taken: 2269ms, status: FINISHED
+2020-08-31 13:53:35,954 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [TC _010 - Get product by SKU-Groovy Script]
+2020-08-31 13:53:35,954 INFO  [SoapUITestCaseRunner] running step [Properties]
+2020-08-31 13:53:35,957 INFO  [SoapUITestCaseRunner] running step [Product Get List]
+2020-08-31 13:53:37,310 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-08-31 13:53:37,324 INFO  [SoapUITestCaseRunner] Assertion [Script Assertion] has status VALID
+2020-08-31 13:53:37,325 INFO  [SoapUITestCaseRunner] running step [Groovy Script]
+2020-08-31 13:53:37,390 INFO  [log] sku is SKU00010
+2020-08-31 13:53:37,401 INFO  [log] SKU found in list
+2020-08-31 13:53:37,504 INFO  [SoapUITestCaseRunner] running step [Get Product by SKU Groovy Script]
+2020-08-31 13:53:38,591 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-08-31 13:53:38,593 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [TC _010 - Get product by SKU-Groovy Script], time taken: 2559ms, status: FINISHED
+2020-08-31 13:53:38,603 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [TC _010 -Get product by SKU-Groovy Script and Properties]
+2020-08-31 13:53:38,603 INFO  [SoapUITestCaseRunner] running step [Groovy Script2]
+2020-08-31 13:53:38,692 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [TC _010 -Get product by SKU -Property Transfer]
+2020-08-31 13:53:38,698 INFO  [SoapUITestCaseRunner] running step [Properties]
+2020-08-31 13:53:38,700 INFO  [SoapUITestCaseRunner] running step [Get list of all products]
+2020-08-31 13:53:39,850 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-08-31 13:53:39,850 INFO  [SoapUITestCaseRunner] running step [Property Transfer]
+2020-08-31 13:53:39,869 INFO  [SoapUITestCaseRunner] running step [Get product by SKU]
+2020-08-31 13:53:40,791 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-08-31 13:53:40,793 INFO  [SoapUITestCaseRunner] running step [Get product by SKU used for Groovy script]
+2020-08-31 13:53:41,710 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-08-31 13:53:41,712 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [TC _010 -Get product by SKU -Property Transfer], time taken: 2998ms, status: FINISHED
+2020-08-31 13:53:41,713 INFO  [log] Status=FINISHED, time taken to complete is :2998 ms
+2020-08-31 13:53:41,721 INFO  [log] number of test steps executed are :5
+2020-08-31 13:53:41,723 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [TC _010 -Get product by SKU-Groovy Script and Properties], time taken: 3115ms, status: FINISHED
+2020-08-31 13:53:41,729 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [TC _011 -Del product by SKU -Property Transfer]
+2020-08-31 13:53:41,729 INFO  [SoapUITestCaseRunner] running step [Properties]
+2020-08-31 13:53:41,730 INFO  [SoapUITestCaseRunner] running step [Get list of all products]
+2020-08-31 13:53:42,888 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-08-31 13:53:42,889 INFO  [SoapUITestCaseRunner] running step [Property Transfer]
+2020-08-31 13:53:42,902 INFO  [SoapUITestCaseRunner] running step [Del a Product]
+2020-08-31 13:53:43,706 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-08-31 13:53:43,707 INFO  [SoapUITestCaseRunner] running step [Del a Product used for Groovy Script]
+2020-08-31 13:53:44,449 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-08-31 13:53:44,449 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [TC _011 -Del product by SKU -Property Transfer], time taken: 2710ms, status: FINISHED
+2020-08-31 13:53:44,461 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [TC _011 -Del product by SKU -Property Expansion]
+2020-08-31 13:53:44,463 INFO  [SoapUITestCaseRunner] running step [Get list of all products]
+2020-08-31 13:53:45,701 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-08-31 13:53:45,705 INFO  [SoapUITestCaseRunner] running step [Del a Product]
+2020-08-31 13:53:46,557 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-08-31 13:53:46,558 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [TC _011 -Del product by SKU -Property Expansion], time taken: 2075ms, status: FINISHED
+2020-08-31 13:53:46,567 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [TC _011 - Del product by SKU-Groovy Script]
+2020-08-31 13:53:46,572 INFO  [SoapUITestCaseRunner] running step [Properties]
+2020-08-31 13:53:46,573 INFO  [SoapUITestCaseRunner] running step [Product Get List]
+2020-08-31 13:53:47,864 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-08-31 13:53:47,957 INFO  [SoapUITestCaseRunner] Assertion [Script Assertion] has status VALID
+2020-08-31 13:53:47,960 INFO  [SoapUITestCaseRunner] running step [Groovy Script]
+2020-08-31 13:53:48,036 INFO  [log] sku is SKU14012
+2020-08-31 13:53:48,072 INFO  [log] SKU found in list
+2020-08-31 13:53:48,083 INFO  [SoapUITestCaseRunner] running step [Del a product Groovy Script]
+2020-08-31 13:53:49,628 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-08-31 13:53:49,636 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [TC _011 - Del product by SKU-Groovy Script], time taken: 2938ms, status: FINISHED
+2020-08-31 13:53:49,643 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [TC _011 -Del  new product-Groovy Script and Properties]
+2020-08-31 13:53:49,646 INFO  [SoapUITestCaseRunner] running step [Groovy Script2]
+2020-08-31 13:53:49,678 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [TC _011 -Del product by SKU -Property Transfer]
+2020-08-31 13:53:49,680 INFO  [SoapUITestCaseRunner] running step [Properties]
+2020-08-31 13:53:49,681 INFO  [SoapUITestCaseRunner] running step [Get list of all products]
+2020-08-31 13:53:50,825 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-08-31 13:53:50,833 INFO  [SoapUITestCaseRunner] running step [Property Transfer]
+2020-08-31 13:53:50,859 INFO  [SoapUITestCaseRunner] running step [Del a Product]
+2020-08-31 13:53:51,663 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-08-31 13:53:51,663 INFO  [SoapUITestCaseRunner] running step [Del a Product used for Groovy Script]
+2020-08-31 13:53:52,782 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-08-31 13:53:52,782 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [TC _011 -Del product by SKU -Property Transfer], time taken: 3068ms, status: FINISHED
+2020-08-31 13:53:52,793 INFO  [log] Status=FINISHED, time taken to complete is :3068 ms
+2020-08-31 13:53:52,794 INFO  [log] number of test steps executed are :5
+2020-08-31 13:53:52,801 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [TC _011 -Del  new product-Groovy Script and Properties], time taken: 3149ms, status: FINISHED
+2020-08-31 13:53:52,807 INFO  [SoapUITestCaseRunner] Project [Soap Order Product Catalouge Training Assignment] finished with status [FINISHED] in 34565ms
